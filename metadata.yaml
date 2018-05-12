@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1504
     wikipedia: http://en.wikipedia.org/wiki/John_Addington_Symonds
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36448#Renaissance-in-Italy-Volume-5--13-Italian-Literature-Part-2
 gutenberg_issued: '2011-06-16'
 gutenberg_type: Text
 identifiers:
